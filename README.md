@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=INITIALIZING_SYSTEM_KERNEL...;ROLANDO_SAMANIEGO_::v3.5;ARCHITECTING_SCALABLE_DATA_SOLUTIONS;JAVA_%7C%7C_PYTHON_%7C%7C_BIG_DATA_STREAMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=ROLANDO_SAMANIEGO;SYSTEMS_ENGINEER;BIG_DATA_%26_BACKEND_ARCHITECTURE" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,54 +7,49 @@
 </div>
 
 <h3 align="left">
-  <img src="https://media.giphy.com/media/QssGEmpjCS4uHW4ofW/giphy.gif" width="30"> 
-  <code>/var/log/syslog/about_me.txt</code>
+  <img src="https://media.giphy.com/media/QssGEmpjCS4uHW4ofW/giphy.gif" width="25"> 
+  <code>/sys/user_profile/bio.txt</code>
 </h3>
 
-> **`[INFO]`**: Ingeniero de Sistemas especializado en el ciclo de vida completo del dato. Desde la ingesta en tiempo real con **Kafka**, procesamiento distribuido con **Hadoop/Spark**, hasta la persistencia y visualización.
+> **`[PROFILE]`**: Ingeniero de Sistemas enfocado en la arquitectura de datos. Especializado en transformar flujos de información masiva en sistemas eficientes y escalables.
 >
-> **`[CURRENT_PROCESS]`**: Desarrollando arquitecturas backend de alta disponibilidad. Mi objetivo no es solo que el código funcione, sino que escale horizontalmente bajo carga pesada.
+> **`[FOCUS]`**: Implementación de pipelines ETL, procesamiento distribuido (Spark/Hadoop) y desarrollo backend robusto.
 >
 > **`[LOCATION]`**: Ecuador `(UTC-5)`
 
 ---
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
-      <h3><code>stack_trace --verbose</code></h3>
+    <td align="center" width="45%">
+      <h3><code>> active_skills</code></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,c,cpp,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=kafka,hadoop,postgres,mysql,docker,kubernetes&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=kafka,hadoop,postgres,mysql,docker&theme=dark" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=laravel,html,css,js,git,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=laravel,html,css,git,linux,bash&theme=dark" />
       </div>
     </td>
-    <td align="center" width="50%">
-      <h3><code>git_activity --graph</code></h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=donut&theme=react&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=20C20E" width="100%" />
+    <td align="center" width="55%">
+       <h3><code>> github_metrics</code></h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=PON_TU_USUARIO_AQUI&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" width="100%" />
     </td>
   </tr>
 </table>
 
-<h3 align="center"><code>/usr/bin/achievements</code></h3>
+<h3 align="left"><code>> language_distribution</code></h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sama170904&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=58A6FF" width="100%" />
+</div>
+
+<br/>
+
+<h3 align="left"><code>> user_achievements</code></h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PON_TU_USUARIO_AQUI&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" width="85%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=react&hide_border=true&bg_color=0D1117&fire=20C20E&ring=20C20E&currStreakLabel=20C20E" />
 </div>
 
 ---
@@ -63,23 +58,18 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://linkedin.com/in/TU_LINKEDIN">
-          <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+        <a href="https://linkedin.com/in/PON_TU_USUARIO_AQUI">
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
       <td>
-         <a href="mailto:TU_EMAIL">
-          <img src="https://img.shields.io/badge/SMTP-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+         <a href="mailto:TU_EMAIL@GMAIL.COM">
+          <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
     </tr>
   </table>
   
   <br/>
-  
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg" />
-  </p>
-  
-  <br/>
+  <img src="https://profile-counter.glitch.me/PON_TU_USUARIO_AQUI/count.svg" />
 </div>
