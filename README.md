@@ -1,54 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=ROLANDO+SAMANIEGO;SYSTEMS+ENGINEER+%2F%2F+DATA+ARCHITECT;BUILDING+SCALABLE+DATA+PIPELINES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=INITIALIZING_SYSTEM_KERNEL...;ROLANDO_SAMANIEGO_::v3.5;ARCHITECTING_SCALABLE_DATA_SOLUTIONS;JAVA_%7C%7C_PYTHON_%7C%7C_BIG_DATA_STREAMS" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### `> system_status --verbose`
+<h3 align="left">
+  <img src="https://media.giphy.com/media/QssGEmpjCS4uHW4ofW/giphy.gif" width="30"> 
+  <code>/var/log/syslog/about_me.txt</code>
+</h3>
 
-> **Perfil Técnico:** Ingeniero en Sistemas enfocado en la arquitectura de soluciones robustas. Mi especialidad no es solo escribir código, sino diseñar el flujo de datos masivos. 
+> **`[INFO]`**: Ingeniero de Sistemas especializado en el ciclo de vida completo del dato. Desde la ingesta en tiempo real con **Kafka**, procesamiento distribuido con **Hadoop/Spark**, hasta la persistencia y visualización.
 >
-> Actualmente integro ecosistemas **Big Data (Hadoop, Spark)** con arquitecturas de microservicios modernas. Busco la optimización crítica en el procesamiento de información y la estabilidad en entornos de producción.
+> **`[CURRENT_PROCESS]`**: Desarrollando arquitecturas backend de alta disponibilidad. Mi objetivo no es solo que el código funcione, sino que escale horizontalmente bajo carga pesada.
+>
+> **`[LOCATION]`**: Ecuador `(UTC-5)`
 
 ---
 
-### `> /var/lib/tech_stack`
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3><code>stack_trace --verbose</code></h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,python,c,cpp,bash&theme=dark" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=kafka,hadoop,postgres,mysql,docker,kubernetes&theme=dark" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=laravel,html,css,js,git,linux&theme=dark" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <h3><code>git_activity --graph</code></h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=donut&theme=react&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=20C20E" width="100%" />
+    </td>
+  </tr>
+</table>
 
-| **Core Engineering** | **Big Data & Streams** | **Backend & DevOps** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/> <br> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> |
+<h3 align="center"><code>/usr/bin/achievements</code></h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  </a>
+</div>
 
-<br>
+<br/>
 
-| **Web Technologies** | **Version Control & OS** |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" width="85%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=react&hide_border=true&bg_color=0D1117&fire=20C20E&ring=20C20E&currStreakLabel=20C20E" />
+</div>
 
 ---
 
-### `> /usr/bin/analytics`
-
-<div align="left">
+<div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF9C&text_color=ffffff&icon_color=00FF9C" />
+        <a href="https://linkedin.com/in/TU_LINKEDIN">
+          <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+        </a>
       </td>
       <td>
-        <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=ffffff&icon_color=00FF9C" />
+         <a href="mailto:TU_EMAIL">
+          <img src="https://img.shields.io/badge/SMTP-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+        </a>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/CONNECT_VIA_LINKEDIN-0077B5?style=style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/SEND_ENCRYPTED_EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  
+  <br/>
+  
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg" />
+  </p>
+  
+  <br/>
 </div>
