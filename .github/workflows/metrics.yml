@@ -1,0 +1,53 @@
+name: Metrics
+on:
+  # Se actualiza cada día a media noche
+  schedule: [{cron: "0 0 * * *"}]
+  # Se actualiza si haces un push manual
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Sama170904
+          template: terminal
+          filename: github-metrics.svg
+          config_timezone: America/Guayaquil
+
+          # --- CONFIGURACIÓN AVANZADA TIPO "NEOFETCH" ---
+
+          # 1. Cabecera personalizada (Tu usuario estilo terminal)
+          plugin_introduction: yes
+          plugin_introduction_title: "rolando@samaniego"
+
+          # 2. Datos del "Sistema" (Lado derecho superior)
+          # Aquí inyectamos los datos personalizados que querías
+          plugin_introduction_entries: |
+            OS: Windows 11, Linux (WSL2)
+            Uptime: 21 Years
+            Host: Guayaquil, Ecuador (J1 Candidate)
+            Kernel: Backend & Big Data Architecture
+            IDE: IntelliJ IDEA, VS Code, PyCharm
+
+          # 3. Lenguajes (Lado derecho medio)
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8 # Muestra los 8 principales
+
+          # 4. Estadísticas al final (Repos, Stars, Commits, Lines of Code)
+          # Esto activa las secciones base necesarias
+          base: "header, activity, community, repositories"
+          # Esto añade la línea de "Total Lines of Code"
+          plugin_lines: yes
+          plugin_lines_repositories_limit: 0 # Cuenta todos tus repos
+          plugin_lines_sections: base
+          plugin_lines_history_limit: 0
+
+          # NOTA: El logo ASCII de la izquierda se generará automáticamente
+          # basado en tu foto de perfil para mantener el estilo auténtico.
